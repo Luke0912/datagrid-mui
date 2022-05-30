@@ -1,0 +1,7 @@
+.maindiv{
+    margin: auto;
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
